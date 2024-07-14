@@ -12,9 +12,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - PostProcessing
+  - ShipCollision
+  - Separation
+  - Player
   - Not in Reflection
   - 
   - 
